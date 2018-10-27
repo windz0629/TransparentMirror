@@ -2,12 +2,13 @@
 
 ### 环境配置
 注：给定版本号的最好安装该版本或更高版本，没给版本号安装最新版本即可。
-Ubuntu 16.04        // 系统
-CUDA 8.0            // GPU并行计算
-VTK 7.1             // QVTKWidget点云显示
-PCL 1.8.0           // 点云库
-QT 5.9              // GUI界面显示
-freenect2           // 读取Kinect-2点云数据
+
+* Ubuntu 16.04        // 系统
+* CUDA 8.0            // GPU并行计算
+* VTK 7.1             // QVTKWidget点云显示
+* PCL 1.8.0           // 点云库
+* QT 5.9              // GUI界面显示
+* freenect2           // 读取Kinect-2点云数据
 
 ### 安装说明
 * CUDA
@@ -48,12 +49,20 @@ freenect2           // 读取Kinect-2点云数据
 * **软件根目录**：
 
   **distance_measurer**     // 计算一个点到一个点云之间的最短距离
+  
   **feature_point_extractor**       // 提取特征点，cuda文件夹有个对应的并行计算版本
+  
   **icp**       // Iteractive Closest Point算法
+  
   **kinect2_grabber**       // 获取Kinect-2点云数据
+  
   **lgf_corresp_group**     // Local Geometric Feature（LGF）特征匹配
+  
   **lgf_estimator**         // LGF生成算法
+  
   **local_geometric_feature**       // LGF类的定义
+  
   **main**      // 主函数
+  
   **segmentor**     // 点云分割
 
