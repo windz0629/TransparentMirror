@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<scene name="scene">
+  <object name="desk">
+    <visual>
+      <!-- The reference frame of the object with respect to the world frame. -->
+      <origin rpy="1.5708 0 0.0" xyz="0.09996 0.0275 0.32214"/>
+      <geometry>
+        <mesh filename="./Models/scene - desk-1.stl"/>
+      </geometry>
+      <material name="grey">
+        <color rgb="192 192 192"/>
+      </material>
+    </visual>
+  </object>
+  <object name="bottle_red">
+    <visual>
+      <origin rpy="1.5708 0 0.0" xyz="0.09996 0.0275 0.32214"/>
+      <geometry>
+        <mesh filename="./Models/scene - bottle_red-1.stl"/>
+      </geometry>
+      <material name="red">
+        <color rgb="255 0 0"/>
+      </material>
+    </visual>
+  </object>
+  <object name="cup_green">
+    <visual>
+      <origin rpy="1.5708 0 0.0" xyz="0.09996 0.0275 0.32214"/>
+      <geometry>
+        <mesh filename="./Models/scene - cup_green-1.stl"/>
+      </geometry>
+      <material name="green">
+        <color rgb="0 255 0"/>
+      </material>
+    </visual>
+  </object>
+  <object name="cup_pink">
+    <visual>
+      <origin rpy="1.5708 0 0.0" xyz="0.09996 0.0275 0.32214"/>
+      <geometry>
+        <mesh filename="./Models/scene - cup_pink-1.stl"/>
+      </geometry>
+      <material name="pink">
+        <color rgb="255 192 203"/>
+      </material>
+    </visual>
+  </object>
+  <object name="cup_purple">
+    <visual>
+      <origin rpy="1.5708 0 0.0" xyz="0.09996 0.0275 0.32214"/>
+      <geometry>
+        <mesh filename="./Models/scene - cup_purple-1.stl"/>
+      </geometry>
+      <material name="purple">
+        <color rgb="160 32 240"/>
+      </material>
+    </visual>
+  </object>
+</scene>
+

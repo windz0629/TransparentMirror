@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lgf>
+  <object name="cup">
+    <color rgb="255 0 0"/>
+    <cef>
+      <corner> 1 1 1 </corner>
+      <edge> 1 1 1 </edge>
+      <edge> 1 1 1 </edge>
+    </cef>
+    <cef>
+      <corner> 1 1 1 </corner>
+      <edge> 1 1 1 </edge>
+      <edge> 1 1 1 </edge>
+    </cef>
+    <cnf>
+      <center> 1 1 1 </center>
+      <radius> 1 </radius>
+      <normal> 1 1 1 </normal>
+      <principal_axis> 1 1 1 </principal_axis>
+      <principal_axis> 1 1 1 </principal_axis>
+    </cnf>
+    <cnf>
+      <center> 1 1 1 </center>
+      <radius> 1 </radius>
+      <normal> 1 1 1 </normal>
+      <principal_axis> 1 1 1 </principal_axis>
+      <principal_axis> 1 1 1 </principal_axis>
+    </cnf>
+  </object>
+  <object name="bottle">
+    <color rgb="255 0 0"/>
+    <cef>
+      <corner> 1 1 1 </corner>
+      <edge> 1 1 1 </edge>
+      <edge> 1 1 1 </edge>
+    </cef>
+    <cef>
+      <corner> 1 1 1 </corner>
+      <edge> 1 1 1 </edge>
+      <edge> 1 1 1 </edge>
+    </cef>
+    <cnf>
+      <center> 1 1 1 </center>
+      <radius> 1 </radius>
+      <normal> 1 1 1 </normal>
+      <principal_axis> 1 1 1 </principal_axis>
+      <principal_axis> 1 1 1 </principal_axis>
+    </cnf>
+    <cnf>
+      <center> 1 1 1 </center>
+      <radius> 1 </radius>
+      <normal> 1 1 1 </normal>
+      <principal_axis> 1 1 1 </principal_axis>
+      <principal_axis> 1 1 1 </principal_axis>
+    </cnf>
+  </object>
+</lgf>
+
